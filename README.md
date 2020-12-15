@@ -1,2 +1,4 @@
 # datascience
-Exemples pour datasciecne
+Exemples pour data science
+
+https://realpython.com/learning-paths/pandas-data-science/
